@@ -329,6 +329,10 @@ h3 {
         max-width: 430px;
     }
 
+    .portfolio-img {
+        margin: 0 auto;
+    }
+
     .footer__bottom .content_top {
         justify-content: space-between;
         flex-direction: row;
@@ -337,12 +341,6 @@ h3 {
 
     .footer__bottom .title {
         text-align: left;
-    }
-}
-
-@media screen and (max-width: 776px) {
-    .portfolio-img {
-        margin: 0 auto;
     }
 }
 
@@ -371,6 +369,7 @@ h3 {
 
     .portfolio-img {
         width: 100%;
+        margin: 0 auto;
     }
 
     .portfolio-img img {
