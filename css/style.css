@@ -78,6 +78,7 @@ h2 {
 .content_bottom h6 {
     font-weight: 600;
     font-size: var(--main-size);
+    margin: 15px 0;
 }
 
 .content_bottom p {
